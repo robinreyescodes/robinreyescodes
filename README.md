@@ -1,5 +1,10 @@
 ### robinreyescodes 👋
+My name is Robin Reyes, future Software Engineer. This is the place where I work on my web dev projects and hone my skills. 
 
+Fun facts about me: 
+- I have a [Youtube](https://www.youtube.com/@robinnnsings) channel where I sing & stuff 
+- I'm about to graduate from San Francisco State University
+- When I'm not coding, I'm working as a videographer
 <!--
 **robinreyescodes/robinreyescodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
