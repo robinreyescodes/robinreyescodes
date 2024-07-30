@@ -1,6 +1,6 @@
 ### robinreyescodes 👋
 
-website: https://robinreyescodes.github.io/RR_portfolio/
+[My Website | Portfolio] (https:www.robinreyescode.com)
 
 My name is Robin Reyes, future Software Engineer. This is the place where I work on my web dev projects and hone my skills. 
 
